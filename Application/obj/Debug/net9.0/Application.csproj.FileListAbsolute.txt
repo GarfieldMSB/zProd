@@ -33,3 +33,4 @@ C:\Users\Matias\Desktop\workspace\zProd\Application\obj\Debug\net9.0\Application
 C:\Users\Matias\Desktop\workspace\zProd\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\Matias\Desktop\workspace\zProd\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\Matias\Desktop\workspace\zProd\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Application\obj\Debug\net9.0\Application.sourcelink.json
