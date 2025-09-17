@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wG/vKCBSo58=",
+  "dgSpecHash": "gtavR/5Vs3I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\API.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Matías Sepúlveda B\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\Matías Sepúlveda B\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Matias\\Desktop\\workspace\\zProd\\API\\API.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
