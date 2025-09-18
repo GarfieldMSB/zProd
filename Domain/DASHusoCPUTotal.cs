@@ -1,8 +1,10 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Domain;
 
+[Table("DASH_usoCPU_Total")]
 public class DASHusoCPUTotal
 {
     public int Id { get; set; }

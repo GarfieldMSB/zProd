@@ -56,7 +56,7 @@ namespace Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("DASH_usoCPU_Total", (string)null);
+                    b.ToTable("DASH_usoCPU_Total");
                 });
 #pragma warning restore 612, 618
         }

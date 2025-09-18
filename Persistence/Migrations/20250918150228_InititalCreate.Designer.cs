@@ -12,7 +12,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250918040013_InititalCreate")]
+    [Migration("20250918150228_InititalCreate")]
     partial class InititalCreate
     {
         /// <inheritdoc />
@@ -59,7 +59,7 @@ namespace Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("DASH_usoCPU_Total", (string)null);
+                    b.ToTable("DASH_usoCPU_Total");
                 });
 #pragma warning restore 612, 618
         }
