@@ -24,8 +24,11 @@ namespace Persistence.Migrations
 
             modelBuilder.Entity("Domain.DASHusoCPUTotal", b =>
                 {
-                    b.Property<DateTimeOffset>("timestamp")
-                        .HasColumnType("datetimeoffset");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("jobname")
                         .IsRequired()
@@ -38,6 +41,9 @@ namespace Persistence.Migrations
                     b.Property<string>("owner")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("timestamp")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("tipochart")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -48,9 +54,9 @@ namespace Persistence.Migrations
                     b.Property<string>("workload")
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("timestamp");
+                    b.HasKey("Id");
 
-                    b.ToTable("DASHusoCPUTotal");
+                    b.ToTable("DASH_usoCPU_Total", (string)null);
                 });
 #pragma warning restore 612, 618
         }

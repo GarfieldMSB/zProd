@@ -13,6 +13,7 @@ C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\bin\Debug\net9.0\Persistence.deps.json
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\bin\Debug\net9.0\Persistence.dll
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\bin\Debug\net9.0\Persistence.pdb
@@ -29,4 +30,3 @@ C:\Users\Matias\Desktop\workspace\zProd\Persistence\obj\Debug\net9.0\Persistence
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\obj\Debug\net9.0\Persistence.pdb
 C:\Users\Matias\Desktop\workspace\zProd\Persistence\obj\Debug\net9.0\ref\Persistence.dll
-C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json

@@ -5,7 +5,8 @@ namespace Domain;
 
 public class DASHusoCPUTotal
 {
-    public DateTimeOffset timestamp { get; set; }
+    public int Id { get; set; }
+    public DateTime timestamp { get; set; }
     public required string jobname { get; set; }
     public double usoCpuPorcentaje { get; set; }
     public string? owner { get; set; }

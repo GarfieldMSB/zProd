@@ -9,6 +9,7 @@ C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9.0\Domain.sourcelink.json
 C:\Users\Matias\Desktop\workspace\zProd\Domain\bin\Debug\net9.0\Domain.deps.json
 C:\Users\Matias\Desktop\workspace\zProd\Domain\bin\Debug\net9.0\Domain.dll
 C:\Users\Matias\Desktop\workspace\zProd\Domain\bin\Debug\net9.0\Domain.pdb
@@ -21,4 +22,3 @@ C:\Users\Matias\Desktop\workspace\zProd\Domain\obj\Debug\net9.0\Domain.dll
 C:\Users\Matias\Desktop\workspace\zProd\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\Matias\Desktop\workspace\zProd\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\Matias\Desktop\workspace\zProd\Domain\obj\Debug\net9.0\ref\Domain.dll
-C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\Domain\obj\Debug\net9.0\Domain.sourcelink.json

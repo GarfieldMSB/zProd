@@ -7,9 +7,8 @@ namespace Persistence;
 public class AppDbContext(DbContextOptions options) : DbContext(options)
 {
     public required DbSet<DASHusoCPUTotal> DASHusoCPUTotal { get; set; }
-        
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
         => modelBuilder.Entity<DASHusoCPUTotal>()
-                       .ToTable("DASH_usoCPU_Total")   // nombre exacto de tu tabla
-                       .HasNoKey();    
+                       .ToTable("DASH_usoCPU_Total");   // nombre exacto de tu tabla    
 }
