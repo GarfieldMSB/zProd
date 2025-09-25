@@ -9,12 +9,15 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+    builder.Services.AddCors();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod()
+    .WithOrigins("http://localhost:3000", "https://localhost:3000"));
 app.MapControllers();
 
 using var scope = app.Services.CreateScope();
