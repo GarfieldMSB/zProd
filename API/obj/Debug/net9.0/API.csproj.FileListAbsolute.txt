@@ -333,3 +333,5 @@ C:\Users\Matias\Desktop\workspace\zProd\api\obj\Debug\net9.0\refint\API.dll
 C:\Users\Matias\Desktop\workspace\zProd\api\obj\Debug\net9.0\API.pdb
 C:\Users\Matias\Desktop\workspace\zProd\api\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\Matias\Desktop\workspace\zProd\api\obj\Debug\net9.0\ref\API.dll
+C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\api\bin\Debug\net9.0\MediatR.dll
+C:\Users\Matías Sepúlveda B\Desktop\workspace\bech\zProd\api\bin\Debug\net9.0\MediatR.Contracts.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\API.csproj": {}
+    "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\API.csproj": {
+    "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Matías Sepúlveda B\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\API\\obj\\",
+        "outputPath": "C:\\Users\\Matías Sepúlveda B\\Desktop\\workspace\\bech\\zProd\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,6 +134,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
